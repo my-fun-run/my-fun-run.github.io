@@ -41,4 +41,5 @@
 ## Endorsements
 
 Jason Shaner
+Christie Ryan
 
