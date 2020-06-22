@@ -6,4 +6,4 @@
 
 ## Design documentation
 
-* [Entity-relationship diagram](erd.md)
+* [Entity-relationship diagram](docs/erd.md)
