@@ -19,7 +19,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ## Design documentation
 
-* [Entity-relationship diagram](erd.md)
+   * [Entity-relationship diagram](docs/erd.md)
 
 ## Entity classes
 
