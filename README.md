@@ -39,6 +39,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
    * [Entity-relationship diagram](docs/erd.md)
 
-## Entity classes
+## [Entity classes](https://github.com/my-fun-run/funrun-service/tree/master/src/main/java/edu/cnm/deepdive/funrun/model/entity)
 
 * fghjklkjh
