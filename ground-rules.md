@@ -33,7 +33,7 @@
 
 * Primary Roles (if completed)
 
-    * To be determined
+    * To be determined  
     * Roles: Timekeeper, Shared Leadership (with option to revisit if norms/goals aren't being met). 
 
 
