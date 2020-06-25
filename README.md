@@ -1,6 +1,7 @@
 ## My Fun Run
 
-Default Blah
+# Introduction 
+fghjklgfdxcvbnm
 
 ## Welcome to GitHub Pages
 
