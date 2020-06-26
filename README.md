@@ -39,7 +39,40 @@ _My Fun Run_ is an Android virtual themed race app. Allowing the user to track a
 
 ## External services/sources
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  
+   * __Google Sing In__ - this allows users an easy login process.
+
+     * https://developers.google.com/android/guides/http-auth
+
+   * __Accelerator__ - this will help the app gather user run stats.
+   
+     * https://developer.android.com/guide/topics/sensors/sensors_motion
+
+   * __Timer/Clock__ - this will be used to track the length of the user's run.
+
+     * https://developer.android.com/guide/components/intents-common#CreateTimer
+     
+   * __Media Player__ - this will be used to control playback of audio/video files and streams.
+   
+     * https://developer.android.com/reference/android/media/MediaPlayer
+     
+   * __GPS__ - this will allow users to track their distance while running.
+
+     * https://developer.android.com/training/articles/wear-location-detection
+
+   * __Push Notifications__ - this will allow users to stay motivated by receiving notification reminders.
+   
+     * https://developer.android.com/guide/topics/ui/notifiers/notifications
+     
+   * __Bluetooth__ - this will allow the user the ability to connect for a hands free experience.
+     
+     * https://developer.android.com/guide/topics/connectivity/bluetooth
+
+   * __Google Play Store__ - by publishing this app more people will be able to see it.
+    
+     * https://developer.android.com/distribute/google-play
+     * https://developer.android.com/distribute/best-practices/launch/launch-checklist
+
 
 ## Design documentation
 
@@ -47,4 +80,3 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ## [Entity classes](https://github.com/my-fun-run/funrun-service/tree/master/src/main/java/edu/cnm/deepdive/funrun/model/entity)
 
-* fghjklkjh
