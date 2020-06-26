@@ -17,7 +17,7 @@ _My Fun Run_ is an Android virtual themed race app. Allowing the user to track a
  timed run option. After choosing the desired race the user will begin their run. Users will be 
  able to track their distance, time, and pace for each run. This saved data can be used to track
  their daily, weekly,and monthly progress. These stats can also be used to compete against other 
- useres of the app. Runners will choose a skill level; beginner, intermediate, or advanced. Based
+ users of the app. Runners will choose a skill level; beginner, intermediate, or advanced. Based
  on their skill level choosing their stats will be grouped accordingly and will be ranked based on
  the distance they ran and their time. This will create ranking for users to see where they stand
  against other app users. Also, runners can choose to comment on other user's runs providing further
@@ -27,9 +27,15 @@ _My Fun Run_ is an Android virtual themed race app. Allowing the user to track a
 
 ## User stories
 
-You can use the [editor on GitHub](https://github.com/my-fun-run/my-fun-run.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+* Seasoned Runners
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    > As an active, competitive runner who is always looking to increase my speed and endurance, I need a convenient way to keep track of my daily runs,
+      and see how I measure up to other runners in the community.
+	
+* Novice/Unmotivated Runners
+	
+	> As someone relatively new to running, and looking to make it part of my regular exercise routine, I need a fun motivator to help me stay interested and focused,
+      and a way for friends and family to offer encouragement.
 
 ## External services/sources
 
