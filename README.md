@@ -1,5 +1,11 @@
 # My Fun Run
 
+## Team Roster:
+
+ * Anastasia Hristian
+ * Christie Ryan
+ * Jason Shaner
+
 ## Ground rules
 
  * [Ground rules](ground-rules.md)
