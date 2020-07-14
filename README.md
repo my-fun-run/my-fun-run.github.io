@@ -44,26 +44,25 @@ the user logs in they will select a race, along with an optional theme or event.
 
 ## External services/sources
 
-   * [Google Sing In](https://developers.google.com/android/guides/http-auth) - will allow users an easy login process.
+   * [Google Sing In](https://developers.google.com/android/guides/http-auth) - will allow users an easy login process; without the Sing In the user will not be able to use the app.
 
-   * [Accelerator](https://developer.android.com/guide/topics/sensors/sensors_motion) - will help the app gather user run stats.
+   * [Accelerator](https://developer.android.com/guide/topics/sensors/sensors_motion) - will help the app gather user run stats, and it is required for app's functionality.
    
-   * [Timer/Clock](https://developer.android.com/guide/components/intents-common#CreateTimer) - will be used to track the length of the user's run.
+   * [Timer/Clock](https://developer.android.com/guide/components/intents-common#CreateTimer) - will be used to track the length of the user's run, and it is required for app's functionality.
      
-   * [Media Player](https://developer.android.com/reference/android/media/MediaPlayer) - will be used to control playback of audio/video files and streams.
+   * [Media Player](https://developer.android.com/reference/android/media/MediaPlayer) - will be used to control playback of audio/video files and streams, but is not required for app's functionality.
       
-   * [GPS](https://developer.android.com/training/articles/wear-location-detection) - will allow users to track their distance while running.
+   * [GPS](https://developer.android.com/training/articles/wear-location-detection) - will allow users to track their distance while running, and it is required for app's functionality.
 
-   * [Push Notifications](https://developer.android.com/guide/topics/ui/notifiers/notifications) - will allow users to stay motivated by receiving notification reminders.
+   * [Push Notifications](https://developer.android.com/guide/topics/ui/notifiers/notifications) - will allow users to stay motivated by receiving notification reminders, but the user will be able to use the app without it.
      
-   * [Bluetooth](https://developer.android.com/guide/topics/connectivity/bluetooth) - will allow the user the ability to connect for a hands free experience.
+   * [Bluetooth](https://developer.android.com/guide/topics/connectivity/bluetooth) - will allow the user the ability to connect for a hands free experience, but the user will be able to use the app without it.
      
-   * [Google Play Store](https://developer.android.com/distribute/google-play) - by publishing this app more people will be able to use it and keep up their motivation.
 
 
 ## Design documentation
 
    * [Entity-relationship diagram](docs/erd.md)
 
-## [Entity classes](https://github.com/my-fun-run/funrun-service/tree/master/src/main/java/edu/cnm/deepdive/funrun/model/entity)
+   * [Entity classes](https://github.com/my-fun-run/funrun-service/tree/master/src/main/java/edu/cnm/deepdive/funrun/model/entity)
 
