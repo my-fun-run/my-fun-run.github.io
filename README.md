@@ -62,7 +62,17 @@ the user logs in they will select a race, along with an optional theme or event.
 
 ## Design documentation
 
+   * [Wireframe](wireframe.pdf)
+   
    * [Entity-relationship diagram](docs/erd.md)
 
-   * [Entity classes](https://github.com/my-fun-run/funrun-service/tree/master/src/main/java/edu/cnm/deepdive/funrun/model/entity)
+## [Entity classes](https://github.com/my-fun-run/funrun-service/tree/master/src/main/java/edu/cnm/deepdive/funrun/model/entity)
+
+## [DDL]
+
+## [Repository Interfaces](https://github.com/my-fun-run/funrun-service/tree/master/src/main/java/edu/cnm/deepdive/funrun/service)
+
+## [Rest Controllers/Application Logic](https://github.com/my-fun-run/funrun-service/tree/master/src/main/java/edu/cnm/deepdive/funrun/controller)
+
+## [Javadocs]
 
