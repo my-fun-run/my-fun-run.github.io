@@ -29,15 +29,18 @@ the user logs in they will select a race, along with an optional theme or event.
 
 ## User stories
 
-* Seasoned Runners
+* Competitive Runners
 
-    > As an active, competitive runner who is always looking to increase my speed and endurance, I need a convenient way to keep track of my daily runs,
+    > As an ultra-runner who is always looking to increase my speed and endurance, I need an app to keep track of my daily runs,
       and see how I measure up to other runners in the community.
 	
-* Novice/Unmotivated Runners
+* Unmotivated Runners
 	
-	> As someone relatively new to running, and looking to make it part of my regular exercise routine, I need a fun motivator to help me stay interested and focused,
-      and a way for friends and family to offer encouragement.
+	> As a runner who lacks motivation, I would love to have an app that provides encouragement and motivation during my runs, to keep me going.
+                         
+* Runners In A Rut	
+
+	> As a runner who takes the same route all the time, I would like an app that would give me some new and exciting options, without having to go far from home.
 
 ## External services/sources
 
