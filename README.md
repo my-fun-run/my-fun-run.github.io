@@ -62,7 +62,7 @@ the user logs in they will select a race, along with an optional theme or event.
 
 ## Design documentation
 
-   * [Wireframe](docs/wireframe.pdf)
+   * [Wireframe](docs/wireframe.md)
    
    * [Entity-relationship diagram](docs/erd.md)
 
