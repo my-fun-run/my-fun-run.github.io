@@ -74,5 +74,7 @@ the user logs in they will select a race, along with an optional theme or event.
 
 ## [Rest Controllers/Application Logic](https://github.com/my-fun-run/funrun-service/tree/master/src/main/java/edu/cnm/deepdive/funrun/controller)
 
+## [Endpoints]()
 
+## [Javadocs]()
 
