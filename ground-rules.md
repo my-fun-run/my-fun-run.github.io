@@ -41,6 +41,6 @@
 ## Endorsements
 
 Jason Shaner
-Christie Ryan.
+Christie Ryan
 Anastasia Hristian
 
