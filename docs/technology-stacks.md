@@ -26,7 +26,7 @@
 
 #### Front end
 
-   * Emulator Pixel 3 API 28 //TODO Add all 3 emulators if different.
+   * Emulator Pixel 3 API 28 and Pixel 3A API 28
    * Data model
         * SQLite
         * Room ORM
