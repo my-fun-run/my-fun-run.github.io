@@ -76,4 +76,6 @@ the user logs in they will select a race, along with an optional theme or event.
 
 ## [Endpoints](https://github.com/my-fun-run/my-fun-run.github.io/blob/master/docs/endpoints.md)
 
+## [Outlines of technology stacks](https://github.com/my-fun-run/my-fun-run.github.io/blob/master/docs/technology-stacks.md)
+
 

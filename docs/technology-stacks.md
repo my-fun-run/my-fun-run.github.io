@@ -21,7 +21,7 @@
             * Custom view classes & interfaces
         * Authentication
             * Spring Security
-            * Google Sign In (external service; see [](https://developers.google.com/identity)
+            * Google Sign In (external service; see [https://developers.google.com/identity](https://developers.google.com/identity)
             * Custom authentication verification class
 
 #### Front end
@@ -47,7 +47,7 @@
    * Controller
         * Custom activity and fragment classes
    * Authentication
-        * Google Sign In (external service; see [](https://developers.google.com/identity)
+        * Google Sign In (external service; see [https://developers.google.com/identity](https://developers.google.com/identity)
         * Custom sign in service class
         
     
