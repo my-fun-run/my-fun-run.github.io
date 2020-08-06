@@ -33,20 +33,37 @@ the user logs in they will select a race, along with an optional theme or event.
 
 ## Current state 
 
+Currently, we have been able to achieve multiple of our project goals. Our app is able to build and
+run. Users can use bottom navigation to move from the Home screen to either view their run histories, 
+or select a race or event. At the moment, our Home screen does not provide functions and welcomes 
+the user.Our users have the ability to select a race theme, track their run, and store their stats in the 
+History.We hvae 2 race options available to choose at this time. Our app stores histories on the 
+Android as well as the cloud. Storing locally allows the user to access stats when offline. 
+Functionally, the frontend is able to communicate to the backend. This allows users can comment on
+each other's races as well as store histories for leaderboard purposes. Our app is hosted in the 
+cloud. We also have successfully implemented Google sign-in, authentication and security.
+We have tested making and retrieving Race Histories in Postman. We have run our app on two emulators
+(Pixel 3A and Pixel 3).
+Stretch goals for our project include adding GPS, audio prompts ot users during runs based on theme 
+selected, configuring a leaderboard, and adding user goals. 
+
 ## User stories
 
-* Competitive Runners
+* Race enthusiasts who often compete in multiple runs a year.
 
     > As an ultra-runner who is always looking to increase my speed and endurance, I need an app to keep track of my daily runs,
       and see how I measure up to other runners in the community.
 	
-* Unmotivated Runners
+* Someone who is new to running and wants motivation.
 	
 	> As a runner who lacks motivation, I would love to have an app that provides encouragement and motivation during my runs, to keep me going.
                          
-* Runners In A Rut	
+* Runners wgo run regularly but are in need of change to their routine.	
 
 	> As a runner who takes the same route all the time, I would like an app that would give me some new and exciting options, without having to go far from home.
+ 
+ * Runner who is unable to compete in races due to pandemic.          
+    > As a runner who competes in fun, themed 5ks and marathons, I would love to be able to still participate in these kinds of runs while observing current restrictions.                                                     
 
 
 ## Design documentation
