@@ -50,7 +50,7 @@ selected, configuring a leaderboard, and adding user goals.
 	
 	> As a runner who lacks motivation, I would love to have an app that provides encouragement and motivation during my runs, to keep me going.
                          
-* Runners wgo run regularly but are in need of change to their routine.	
+* Runners who run regularly but are in need of change to their routine.	
 
 	> As a runner who takes the same route all the time, I would like an app that would give me some new and exciting options, without having to go far from home.
  
