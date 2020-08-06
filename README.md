@@ -2,9 +2,11 @@
 
 ## Team Roster:
 
- * Anastasia Hristian
- * Christie Ryan
- * Jason Shaner
+ * Anastasia Hristian - Developer
+ * Christie Ryan - Developer
+ * Jason Shaner - Developer
+ 
+ Roles : As a team we equally shared responsibilities for development and implementation.   
 
 ## Ground rules
 
@@ -26,6 +28,10 @@ the user logs in they will select a race, along with an optional theme or event.
  to comment on other user's runs providing further encouragement. Runners will repeat this process
  for each run they complete and choose to publish for others ranking and others to view. Users can
  choose not to publish run stats and save for private viewing and personal tracking purposes.
+ 
+## [Overview]()
+
+## Current state 
 
 ## User stories
 
@@ -49,7 +55,9 @@ the user logs in they will select a race, along with an optional theme or event.
    
    * [Entity-relationship diagram](docs/erd.md)
 
-## [DDL](https://github.com/my-fun-run/my-fun-run.github.io/blob/master/docs/ddl.md)
+## [DDL backend](https://github.com/my-fun-run/funrun-service/tree/master/docs/sql)
+
+## [DDL frontend](https://github.com/my-fun-run/my-fun-run-client/tree/master/docs/sql)
 
 ## [Rest Controllers/Application Logic](https://github.com/my-fun-run/funrun-service/tree/master/src/main/java/edu/cnm/deepdive/funrun/controller)
 
@@ -57,8 +65,14 @@ the user logs in they will select a race, along with an optional theme or event.
 
 ## [Endpoints](https://github.com/my-fun-run/my-fun-run.github.io/blob/master/docs/endpoints.md)
 
+## [User Instructions](https://github.com/my-fun-run/my-fun-run-client/blob/master/docs/basic_user_instructions.md)
+
 ## [Build Instructions](https://github.com/my-fun-run/my-fun-run-client/blob/master/docs/build_instructions.md)
 
 ## [Copyright/License](https://github.com/my-fun-run/my-fun-run-client/blob/master/docs/Notice.md)
+
+
+
+
 
 
