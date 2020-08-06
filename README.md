@@ -14,20 +14,12 @@
 
 ## Project description 
 
-_My Fun Run_ is an Android virtual themed race app with a cloud service which allows you to store 
-that data from races. Users can track and save their routes while utilizing themed race mode options
- to simulate real life themed runs. This ultra-immersive running game will get any user motivated to 
- get running and achieve their goals.
- 
-During registration a user will be asked to select their desired skill level: beginner, intermediate, or advanced. After registration when 
-the user logs in they will select a race, along with an optional theme or event. Users will be able to track their distance, time, and pace for
- each run. This saved data can be used to track their daily, weekly,and monthly progress. These 
- stats can also be used to compete against other users of the app. Their stats will be
- grouped according to skill level, and will be ranked on the distance they ran and their time. This will
- create ranking for users to see where they stand against other app users. Also, runners can choose 
- to comment on other user's runs providing further encouragement. Runners will repeat this process
- for each run they complete and choose to publish for others ranking and others to view. Users can
- choose not to publish run stats and save for private viewing and personal tracking purposes.
+My Fun Run is an Android virtual themed race app with a cloud service which allows you to store that data from races. Users can track and save their routes while utilizing themed race mode options to simulate real life themed runs. This ultra-immersive running game will get any user motivated to get running and achieve their goals.
+
+The physical fitness world covers a vast spectrum of enthusiasts and participants, from the dedicated, competitive athlete, to the novice looking to improve their health and well-being.  Struggles include remaining competitive and remaining motivated on both ends, and we are drawn by the desire to bridge these two disparate worlds, and provide runners of all interest and skill levels a forum for healthy and friendly competition and motivation.  Additionally, in our changing landscape from COVID-19, we wanted to include, through virtual themes and experiences, a way to inspire physical activity remotely, especially while community interaction is limited.
+
+During registration a user will be asked to select their desired skill level: beginner, intermediate, or advanced. After registration, when the user logs in they will select a race, along with an optional theme or event. Users will be able to track their distance, time, and pace for each run. This saved data can be used to track their daily, weekly, and monthly progress. These stats can also be used to compete against other users of the app. Their stats will be grouped according to skill level, and will be ranked on the distance they ran, as well as their time. This will create a ranking for users to see where they stand against other app users. Also, runners can choose to comment on other users’ runs providing further encouragement. Runners will repeat this process for each run they complete, and decide whether to publish for community viewings and rankings, or save locally for private viewing and personal tracking purposes.
+
  
 ## [Overview](docs/overview.md)
 
@@ -88,9 +80,7 @@ selected, configuring a leaderboard, and adding user goals.
 
 ## [Copyright/License](https://github.com/my-fun-run/my-fun-run-client/blob/master/docs/Notice.md)
 
-## [Java Docs Frontend]()
-
-## [Java Docs Backend]()
+## [Java Docs](https://github.com/my-fun-run/funrun-service/tree/master/docs)
 
 
 
